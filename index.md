@@ -22,3 +22,9 @@ At this point, our primary focus should be on how we deal with future teams. The
 - Admission only on recommendation of already existing members?
 - Do we need a questionnaire to get to know teams and goals better? 
 - ...
+
+
+## Online tools:
+#### VAM
+- ![hill-climb-calculator](https://www.broleur.com/hill-climb-calculator/)
+- ![powerhill]( http://www.wolfgang-menn.de/powerhill.htm)
