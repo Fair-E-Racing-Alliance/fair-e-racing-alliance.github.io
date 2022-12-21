@@ -1,4 +1,3 @@
-<h1 align="center">Fair-E-Racing-Alliance</h1>
 <img 
     style="display: block;
            margin-left: auto;
