@@ -7,7 +7,8 @@
     alt="FERA logo">
 
 
-## Welcome to all teams and members of the Fair-E-Racing Alliance (FERA).
+## Welcome Fair-E-Racing Alliance (FERA).
+#### About FERA
 I created this project a week ago to start an initiative to make e-racing on Zwift fairer. I think that Zwift currently has little interest in banning riders at the community level, as they are paying customers. 
 One of FERA's goals is to convince as many teams as possible that fair competition from their own riders can reduce this problem. To do this, we want to provide participating teams with tools, procedures and structures that support this effort.
 One principle should be to improve competition by controlling our own riders.
