@@ -6,7 +6,6 @@
            width: 30%;"
     src="https://fair-e-racing-alliance.github.io/images/FERA_640x320.png" 
     alt="FERA logo">
-</img>
 
 
 ## Welcome to all teams and members of the Fair-E-Racing Alliance (FERA).
