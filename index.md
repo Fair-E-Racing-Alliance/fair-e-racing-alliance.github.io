@@ -23,7 +23,7 @@ At this point, our primary focus should be on how we deal with future teams. The
 - ...
 
 ### Joingin FERA
-If you are a team manager or team representative interinged in participating please join us on our Discrod server.
+If you are a team manager or team representative interested in participating please join us on our Discrod server.
 [FERA Discord](https://discord.gg/WW7hpp7TQh) and introduce yourself in the lobby.
 
 
