@@ -1,6 +1,6 @@
 # Fair-E-Racing-Alliance
 
-![FERA](images/fera.png?raw=true "FERA logo")
+![FERA](images/FERA_640x320.png?raw=true "FERA logo")
 
 Welcome to all teams and members of the Fair-E-Racing Alliance (FERA).
 I created this project a week ago to start an initiative to make e-racing on Zwift fairer. I think that Zwift currently has little interest in banning riders at the community level, as they are paying customers. 
