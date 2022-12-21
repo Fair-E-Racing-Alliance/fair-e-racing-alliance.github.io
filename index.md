@@ -8,7 +8,7 @@
 
 
 ## Welcome Fair-E-Racing Alliance (FERA).
-#### About FERA
+### About FERA
 I created this project a week ago to start an initiative to make e-racing on Zwift fairer. I think that Zwift currently has little interest in banning riders at the community level, as they are paying customers. 
 One of FERA's goals is to convince as many teams as possible that fair competition from their own riders can reduce this problem. To do this, we want to provide participating teams with tools, procedures and structures that support this effort.
 One principle should be to improve competition by controlling our own riders.
@@ -22,12 +22,12 @@ At this point, our primary focus should be on how we deal with future teams. The
 - Do we need a questionnaire to get to know teams and goals better? 
 - ...
 
-## Joingin FERA
+### Joingin FERA
 If you are a team manager or team representative interinged in participating please join us on our Discrod server.
 [FERA Discord](https://discord.gg/WW7hpp7TQh) and introduce yourself in the lobby.
 
 
-## Online tools:
+### Online tools:
 #### VAM
 - [hill-climb-calculator](https://www.broleur.com/hill-climb-calculator/)
 - [powerhill]( http://www.wolfgang-menn.de/powerhill.htm)
