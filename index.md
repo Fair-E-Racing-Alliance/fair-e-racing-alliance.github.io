@@ -22,6 +22,10 @@ At this point, our primary focus should be on how we deal with future teams. The
 - Do we need a questionnaire to get to know teams and goals better? 
 - ...
 
+## Joingin FERA
+If you are a team manager or team representative interinged in participating please join us on our Discrod server.
+[FERA Discord](https://discord.gg/WW7hpp7TQh) and introduce yourself in the lobby.
+
 
 ## Online tools:
 #### VAM
