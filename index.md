@@ -25,5 +25,5 @@ At this point, our primary focus should be on how we deal with future teams. The
 
 ## Online tools:
 #### VAM
-- ![hill-climb-calculator](https://www.broleur.com/hill-climb-calculator/)
-- ![powerhill]( http://www.wolfgang-menn.de/powerhill.htm)
+- [hill-climb-calculator](https://www.broleur.com/hill-climb-calculator/)
+- [powerhill]( http://www.wolfgang-menn.de/powerhill.htm)
