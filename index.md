@@ -28,3 +28,4 @@ If you are a team manager or team representative interested in participating ple
 
 ## Pages:
 ### - [Performance Analysis Tools and Techniques](./AnalysisTechniques.md)
+### - [Team Verificatioon](./Teams.md)
