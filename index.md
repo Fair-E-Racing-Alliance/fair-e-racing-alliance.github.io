@@ -26,8 +26,5 @@ At this point, our primary focus should be on how we deal with future teams. The
 If you are a team manager or team representative interested in participating please join us on our Discrod server.
 [FERA Discord](https://discord.gg/WW7hpp7TQh) and introduce yourself in the lobby.
 
-
-### Online tools:
-#### VAM
-- [hill-climb-calculator](https://www.broleur.com/hill-climb-calculator/)
-- [powerhill]( http://www.wolfgang-menn.de/powerhill.htm)
+## Pages:
+### - [Performance Analysis Tools and Techniques](./AnalysisTechniques.md)
