@@ -8,19 +8,12 @@
 
 
 ## Welcome Fair-E-Racing Alliance (FERA).
-### About FERA
-I created this project a week ago to start an initiative to make e-racing on Zwift fairer. I think that Zwift currently has little interest in banning riders at the community level, as they are paying customers. 
-One of FERA's goals is to convince as many teams as possible that fair competition from their own riders can reduce this problem. To do this, we want to provide participating teams with tools, procedures and structures that support this effort.
-One principle should be to improve competition by controlling our own riders.
-At this point, our primary focus should be on how we deal with future teams. There are several factors to consider: 
-- Differences between “community level” and “high level” teams?
-- How do we deal with teams that do this professionally?
-- How do we deal with teams that have sponsors and are therefore committed to success?
-- Dealing with teams that already have banned riders?
-- How do we make sure everyone has the same goals?
-- Admission only on recommendation of already existing members?
-- Do we need a questionnaire to get to know teams and goals better? 
-- ...
+### FERA Mission
+FERA is an alliance of community cycling teams dedicated to fair racing on Zwift. The alliance was founded at the end of the year 2022 and intends to develop basic tools that enable participating teams and their leaders to recognize anomalies in data amongst their own riders and determine whether faulty equipment or disingenuous behaviour is the cause. 
+
+FERA is convinced that the best way to promote integrity is if each team takes responsibility for its own riders instead of denouncing riders from other teams. 
+
+We aim to provide a platform where teams ranging from those who are well-established to those who are new can be supported, educated, and trusted to promote fair play in the E-sports community.
 
 ### Joingin FERA
 If you are a team manager or team representative interested in participating please join us on our Discrod server.
