@@ -28,4 +28,5 @@ If you are a team manager or team representative interested in participating ple
 
 ## Pages:
 ### - [Performance Analysis Tools and Techniques](./AnalysisTechniques.md)
+### - [Equipment Defencts](./equipment_defects.md)
 ### - [Team Verificatioon](./Teams.md)
