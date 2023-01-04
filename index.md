@@ -6,7 +6,7 @@
     src="https://fair-e-racing-alliance.github.io/images/FERA_640x320.png" 
     alt="FERA logo">
 
-# Website underdevelopment
+# Website under development
 ## Join us on our Discord server [FERA Discord](https://discord.gg/WW7hpp7TQh)
 
 ## Welcome Fair-E-Racing Alliance (FERA).
