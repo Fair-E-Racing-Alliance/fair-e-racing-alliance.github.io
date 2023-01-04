@@ -1,7 +1,7 @@
 # FERA website content
 ### hosted at [https://f-e-r-a.org](https://f-e-r-a.org)
 
-Feel free to make a pull resuest or create issues
+Feel free to make a pull request or create issues
 
 If you are new to markdown, here is a frew online editor [https://pandao.github.io/editor.md/en.html](https://pandao.github.io/editor.md/en.html)
 
