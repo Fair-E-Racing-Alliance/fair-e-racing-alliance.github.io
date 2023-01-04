@@ -9,13 +9,13 @@
 
 ## Welcome Fair-E-Racing Alliance (FERA).
 ### FERA Mission
-FERA is an alliance of community cycling teams dedicated to fair racing on Zwift. The alliance was founded at the end of the year 2022 and intends to develop basic tools that enable participating teams and their leaders to recognize anomalies in data amongst their own riders and determine whether faulty equipment or disingenuous behaviour is the cause. 
+FERA is an alliance of community cycling teams dedicated to fair racing on Zwift. The alliance was founded at the end of the year 2022 and intends to develop basic tools that enable participating teams and their leaders to recognize anomalies in data amongst their own riders and determine whether faulty equipment or disingenuous behavior is the cause. 
 
 FERA is convinced that the best way to promote integrity is if each team takes responsibility for its own riders instead of denouncing riders from other teams. 
 
 We aim to provide a platform where teams ranging from those who are well-established to those who are new can be supported, educated, and trusted to promote fair play in the E-sports community.
 
-### Joingin FERA
+### Joining FERA
 If you are a team manager or team representative interested in participating please join us on our Discrod server.
 [FERA Discord](https://discord.gg/WW7hpp7TQh) and introduce yourself in the lobby.
 
