@@ -1,7 +1,7 @@
 ## Resources of known or possible equipment issues.
-Including, miss-configuration, ways to cheat, possible data errors, calebration issues...
+Including, miss-configuration, ways to cheat, possible data errors, calibration issues...
 
-**Stages:** Powermeter and smart bikes
+**Stages:** Power meter and smart bikes
 - [
 Stages SB20 and possible (un)intentional cheating](https://forums.zwift.com/t/stages-sb20-and-possible-un-intentional-cheating/581950)
 
