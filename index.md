@@ -20,8 +20,3 @@ We aim to provide a platform where teams ranging from those who are well-establi
 ### Joining FERA
 If you are a team manager or team representative interested in participating please join us on our Discrod server.
 [FERA Discord](https://discord.gg/WW7hpp7TQh) and introduce yourself in the lobby.
-
-## Pages:
-### - [Performance Analysis Tools and Techniques](./AnalysisTechniques.md)
-### - [Equipment Defects](./equipment_defects.md)
-### - [Team Verification](./Teams.md)
