@@ -18,5 +18,5 @@ FERA is convinced that the best way to promote integrity is if each team takes r
 We aim to provide a platform where teams ranging from those who are well-established to those who are new can be supported, educated, and trusted to promote fair play in the E-sports community.
 
 ### Joining FERA
-If you are a team manager or team representative interested in participating please join us on our Discrod server.
+If you are a team manager or team representative interested in participating, please join us on our Discrod server.
 [FERA Discord](https://discord.gg/WW7hpp7TQh) and introduce yourself in the lobby.
